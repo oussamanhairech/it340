@@ -1,0 +1,19 @@
+{
+  "name": "exercice2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussamanhairech/it340.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oussamanhairech/it340/issues"
+  },
+  "homepage": "https://github.com/oussamanhairech/it340#readme"
+}
