@@ -1,2 +1,2 @@
 # it340
-le projet sera envoyé à : julienchabanne@rodinud.com
+le projet sera envoyé à : julienchabanne@rodin4d.com
